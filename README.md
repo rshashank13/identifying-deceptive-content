@@ -15,6 +15,8 @@ The proliferation of fake news and clickbait articles on social media platforms 
 
 |- fakenews   --> Contains all codes related to fakenews detection experiments
 
+|- common     --> Contains all codes related to analysis of relationship between clickbait and fakenews detection tasks
+
 |- reports    --> Contains reports related to the project
 
 > *PS: For datasets, please access the publicly available datasets (referenced in the report)*
